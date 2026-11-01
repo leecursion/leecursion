@@ -1,41 +1,81 @@
+<!-- ==================== HEADER ==================== -->
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Jaewon's Github%20render&fontSize=90)
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&amp;color=auto&amp;height=300&amp;section=header&amp;text=Jaewon's%20Github&amp;fontSize=90"
+    width="100%"
+    alt="GitHub Header"
+  />
 </div>
+
+<!-- ==================== ABOUT ME ==================== -->
+<div align="center">
+  <h3>👋 About Me 👋</h3>
+
+  <p><strong>이재원(Jae-Won Lee) | leecursion</strong></p>
+
+  <a href="mailto:woqmffl2000@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+</div>
+
+<br>
+
+<!-- ==================== RESEARCH INTERESTS ==================== -->
+<!-- TODO: Add research interests here. -->
+
+<!-- ==================== PROJECTS ==================== -->
+<!-- TODO: Add featured projects here. -->
+
+<!-- ==================== TECH STACK ==================== -->
 <div align="center">
   <h3>⚒️ Tech Stack ⚒️</h3>
 
-  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  <h4><!--AI & Machine Learning--></h4>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
 
-  ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-  ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  <h4><!--LLM & Agent Frameworks--></h4>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph" />
 
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <h4><!--Programming & Web--></h4>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+
+  <h4><!--Version Control--></h4>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </div>
 
 <br><br>
 
+
+<!-- ==================== GITHUB STATISTICS ==================== -->
 <div align="center">
-  <h3>📫 About Me 📫</h3>
-  <a href="https://velog.io/@bungbuung">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
+  <h3>📊 GitHub Statistics 📊</h3>
+
+  <p>
+    <!-- Left: GitHub Streak -->
+    <img
+      src="https://streak-stats.demolab.com?user=leecursion&amp;hide_longest_streak=true"
+      height="170"
+      alt="GitHub Streak"
+    />&nbsp;&nbsp;&nbsp;<!-- Right: Top Languages --><img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=leecursion&amp;layout=donut&amp;theme=default"
+      height="170"
+      alt="Top Languages"
+    />
+  </p>
 </div>
 
-<br><br>
-
-<div align="center">
-  
-  <a href="https://git.io/streak-stats">
-    <img height=220 src="https://github-readme-streak-stats-seven-azure.vercel.app?user=lje00220&card_width=400&short_numbers=true&hide_longest_streak=true" alt="GitHub Streak"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lje00220&exclude_repo=bigdata-project&layout=donut" />
-  </a>
-</div>
+<!-- ==================== ADDITIONAL DESIGN ==================== -->
+<!-- TODO: Add optional additional design elements. -->
